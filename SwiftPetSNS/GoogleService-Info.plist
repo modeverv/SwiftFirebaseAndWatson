@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1064274316403-qrdvbnv2t0qhbgqvvuhq0lko8qmqt8r6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1064274316403-qrdvbnv2t0qhbgqvvuhq0lko8qmqt8r6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAfMIvQgUQdewOQoGUmv12SH0CeQ5pniKY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1064274316403</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>riverside.SwiftPetSNS</string>
+	<key>PROJECT_ID</key>
+	<string>petsns-3cd2f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>petsns-3cd2f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1064274316403:ios:6b335d258590f354</string>
+	<key>DATABASE_URL</key>
+	<string>https://petsns-3cd2f.firebaseio.com</string>
+</dict>
+</plist>
